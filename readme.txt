@@ -11,7 +11,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Description:
 
-This plugin is actually build for <a href="https://botsailor.com/blog/send-woocommerce-abandoned-cart-recovery-message-to-whatsapp-by-botsailor">recover WooCommerce Abandoned Cart by WhatsApp message for Botsailor </a>
+This plugin is actually build for <a href="https://botsailor.com/blog/send-woocommerce-abandoned-cart-recovery-message-to-whatsapp-by-botsailor"> recover WooCommerce Abandoned Cart by WhatsApp message for Botsailor. </a>
 
 The WooCommerce Abandoned Cart Webhook Plugin allows WooCommerce store owners to capture and send abandoned cart data, including customer information, to a specified webhook URL when a cart is abandoned. This plugin integrates with external CRM systems, email marketing platforms, or notification systems for automated cart recovery. It also integrates seamlessly with <a href="https://botsailor.com/"> BotSailor</a> to send WhatsApp notifications, helping to recover lost sales and boost conversions.
 
